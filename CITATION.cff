@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "US CLIA Laboratory Directory (2026)"
+message: "If you use this dataset, please cite it."
+type: dataset
+authors:
+  - name: "Sound Lab Consultants"
+    website: "https://soundlabconsult.com"
+repository-code: "https://github.com/mylabcompliance/clia-lab-directory"
+url: "https://soundlabconsult.com/guides/"
+license: MIT
+date-released: "2026-11-25"
+keywords: [CLIA, clinical laboratory, CMS, FDA, laboratory compliance, diagnostics]

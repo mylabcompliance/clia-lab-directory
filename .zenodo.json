@@ -1,0 +1,5 @@
+{"title": "US CLIA Laboratory Directory (2026)", "upload_type": "dataset",
+ "description": "All 299,345 active CLIA-certified US laboratories (CMS Provider of Services file, July 2026), cleaned and decoded, plus recent FDA CLIA test categorizations. Maintained by Sound Lab Consultants (https://soundlabconsult.com/guides/).",
+ "creators": [{"name": "Sound Lab Consultants"}], "license": "MIT",
+ "keywords": ["CLIA", "clinical laboratory", "CMS", "FDA", "laboratory compliance"],
+ "related_identifiers": [{"identifier": "https://soundlabconsult.com/guides/", "relation": "isDocumentedBy"}]}
